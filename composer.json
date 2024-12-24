@@ -19,7 +19,7 @@
         "google/recaptcha": "~1.1",
         "rbdwllr/reallysimplejwt": "^5.0",
         "ext-redis": "^5.0",
-        "scssphp/scssphp": "^1.10"
+        "scssphp/scssphp": "^2.0"
     },
     "autoload": {
         "classmap": [
